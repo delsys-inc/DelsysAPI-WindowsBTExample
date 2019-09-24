@@ -66,7 +66,7 @@ namespace Basic_Streaming.NET
         public void InitializeDataSource()
         {
 
-            // Load your key & license either through reflection as shown in the User Guide, or by hardc    oding it to these strings.
+            // Load your key & license either through reflection as shown in the User Guide, or by hardcoding it to these strings.
             // Load your license and key files
             // This tutorial assumes you have them contained in embedded resources named PublicKey.lic and License.lic, as part of 
             // a solution with an output executable called BasicExample.
